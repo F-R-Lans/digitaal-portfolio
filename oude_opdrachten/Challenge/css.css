@@ -1,0 +1,91 @@
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #545245;
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+#afbeelding1 {
+  display: inline;
+  float: left;
+  margin: 10px 10px 10px 10px;
+  padding: 2px;
+  border: 1px solid grey;
+}
+#afbeelding2 {
+  display: inline;
+  float: right;
+  margin: 10px 10px 10px 25px;
+  padding: 2px;
+  border: 1px solid grey;
+}
+#banner {
+  margin: 15px 5px 5px 5px;
+}
+#logo {
+  position: absolute;
+  left: 450px;
+  top: 0px;
+  background-color: #545245;
+}
+main {
+  width: 620px;
+  background-color: #fff;
+  margin: auto;
+  margin-top: 63px;
+}
+body {
+  background-image: url(background.gif);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ad2406;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+li a:hover {
+  text-decoration: underline;
+}
+
+li {
+  font: arial;
+}
+h1 {
+  font-family: Tahoma;
+  margin-left: 10px;
+}
+h2 {
+  font-family: Tahoma;
+  margin-left: 10px;
+}
+p {
+  font-family: Georgia;
+  margin-left: 10px;
+}
+p::first-letter {
+  font-size: xx-large;
+  color: #ad2406;
+}
+a {
+  margin-left: 10px;
+}
+
+h4 {
+  position: relative;
+  top: 15px;
+
+}
